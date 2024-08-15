@@ -1,0 +1,88 @@
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  --bodyBg: hsl(212, 45%, 89%);
+  --mainBg: hsl(0, 0%, 100%);
+  --headingColor: hsl(218, 44%, 22%);
+  --paragraphColor: hsl(216, 15%, 48%);
+  --linkColor: hsl(228, 45%, 44%);
+}
+
+body {
+  font-family: "Outfit", sans-serif;
+  background-color: var(--bodyBg);
+  color: #333;
+  height: 100vh;
+  display: grid;
+  justify-content: center;
+  align-items: center;
+  line-height: 1.3;
+}
+
+a {
+  text-decoration: none;
+  color: #333;
+}
+
+img {
+  max-width: 100%;
+}
+
+h1 {
+  color: var(--headingColor);
+  font-size: 1.4rem;
+  font-weight: 700;
+}
+
+p {
+  font-size: 0.96rem;
+  color: var(--paragraphColor);
+  font-weight: 400;
+}
+
+.main {
+  max-width: 350px;
+  background-color: var(--mainBg);
+  padding: 15px;
+  border-radius: 20px;
+  height: 525px;
+}
+
+.main img {
+  border-radius: 10px;
+  margin-bottom: 20px;
+}
+
+.inner-content {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.inner-content h1,
+.inner-content p {
+  padding: 5px;
+  margin: 0 15px;
+  text-align: center;
+}
+
+.inner-content p {
+  margin-top: 10px;
+}
+
+.attribution {
+  font-size: 11px;
+  text-align: center;
+  margin-top: 40px;
+}
+
+.attribution a {
+  color: var(--linkColor);
+}

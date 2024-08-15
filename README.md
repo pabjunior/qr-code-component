@@ -22,8 +22,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Netlify]([https://your-solution-url.com](https://sage-elf-c65a5b.netlify.app))
+- Live Site URL: [Frontend io]([https://your-live-site-url.com](https://www.frontendmentor.io/solutions/qr-code-component-using-html-and-css-91Nt6lZP5J))
 
 ## My process
 

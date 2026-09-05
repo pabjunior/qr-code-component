@@ -1,0 +1,10 @@
+.DS_Store
+
+# Challenge reference files
+design/
+style-guide.md
+preview.jpg
+
+# Assistant instruction files
+AGENTS.md
+CLAUDE.md

@@ -23,8 +23,8 @@ This is my solution to the [QR code component challenge on Frontend Mentor](http
 
 ### Links
 
-- Solution URL: Add your solution URL here
-- Live Site URL: Add your live site URL here
+- Solution URL: [QR Code page repo](https://github.com/pabjunior/qr-code-component)
+- Live Site URL: [QR Code page live site](https://pabjunior.github.io/qr-code-component/)
 
 ## My process
 
@@ -60,7 +60,7 @@ Things I want to keep practicing:
 
 ### AI Collaboration
 
-I used Codex to help me:
+I used AI to help me:
 
 - inspect the project files
 - check the HTML and CSS structure
@@ -71,5 +71,5 @@ The AI was most useful for checking my work and pointing out small layout or acc
 
 ## Author
 
-- Frontend Mentor - [PAB Arthur](https://www.frontendmentor.io/profile/pabjunior)
-- Coded by - PAB Arthur
+- Frontend Mentor - [Frontend Mentor Profile](https://www.frontendmentor.io/profile/pabjunior)
+- Github - [Github Profile](https://www.github.com/pabjunior)
